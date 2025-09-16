@@ -9,6 +9,9 @@ This is a basic Sokoban game implementation in Python, with a text-based user in
 *   Menu with algorithm options.
 *   Search algorithms: BFS, DFS, A*, Hill Climbing, Uniform Cost Search.
 
+# Demo
+![Sokoban demo](demo.gif)
+
 ## Requirements
 
 Install the required packages using `pip`:
